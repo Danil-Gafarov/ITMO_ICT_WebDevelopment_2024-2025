@@ -1,4 +1,4 @@
-site_name: Гафаров Данил. Отчеты
+site_name: Гафаров Данил. Отчёты
 nav:
   - Home: index.md
   - Lab-1:
@@ -7,5 +7,13 @@ nav:
     - task 3: lab1/task3.md
     - task 4: lab1/task4.md
     - task 5: lab1/task5.md
+  - Lab-2:
+    - Models: lab2/models.md
+    - Urls: lab2/urls.md
+    - Views: lab2/views.md
+  - Lab-3: lab3/notes.md
+  - Lab-4: lab4/notes4.md
+  - Practice-3.1: practice3/notes.md
+
 theme:
   name: material
